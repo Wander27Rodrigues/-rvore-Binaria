@@ -24,10 +24,6 @@ Python 3.7.7
 
 See also the list of [contributors](https://github.com/Wander27Rodrigues/Binary-Tree/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
 ## Acknowledgments
 
 * [Stackoverflow](https://pt.stackoverflow.com/questions/266984/c3%81rvore-bin%c3%a1ria-com-percurso-em-ordem-e-pr%c3%a9-ordem)
