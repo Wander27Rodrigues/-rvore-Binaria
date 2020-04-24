@@ -21,7 +21,7 @@ Python 3.7.7
 ## Contributing
 ## Authors
 
-* [**ElbertRibeiro**](https://github.com/Wander27Rodrigues)
+[*Wander Rodrigues*] https://github.com/Wander27Rodrigues
 
 See also the list of [contributors](https://github.com/Wander27Rodrigues/Binary-Tree/contributors) who participated in this project.
 
