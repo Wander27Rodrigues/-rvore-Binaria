@@ -20,7 +20,7 @@ Python 3.7.7
 
 ## Contributing
 ## Authors
-* [**Wander27Rodrigues**](https://github.com/Wander27Rodrigues)
+* [**Wander27Rodrigues**](https://happy-shirley-6b48b1.netlify.app/)
 
 See also the list of [contributors](https://github.com/Wander27Rodrigues/Binary-Tree/contributors) who participated in this project.
 
